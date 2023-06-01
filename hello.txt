@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-header 
-=======
 header
->>>>>>> feature/add-header
 
 Hello
 
